@@ -1,4 +1,4 @@
-# WINDOWS RDP 
+# WINDOWS 10 ( server 2019) RDP 
 
 **Windows Server 2019 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
 
